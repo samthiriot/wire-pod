@@ -1,7 +1,7 @@
 [
   {
     "name" : "intent_names_username_extend",
-    "keyphrases": ["mon nom est", "mon nom est", "je suis", "voici"]
+    "keyphrases": ["mon nom est", "je m'appelle", "je suis", "voici"]
   },
   {
     "name": "intent_weather_extend",
@@ -13,7 +13,7 @@
   },
   {
     "name": "intent_imperative_eyecolor",
-    "keyphrases": ["couleur des yeux", "changer la couleur des yeux", "yeux"]
+    "keyphrases": ["couleur des yeux", "couleur des yeux", "changer la couleur", "yeux"]
   },
   {
     "name": "intent_character_age",
@@ -21,11 +21,11 @@
   },
   {
     "name": "intent_explore_start",
-    "keyphrases": ["allez explorer", "explore", "va explorer", "fait un tour"]
+    "keyphrases": ["vas explorer", "explores", "pars faire une promenade", "fais un tour", "pars explorer"]
   },
   {
     "name": "intent_system_charger",
-    "keyphrases": ["rentrer à la maison", "à la maison", "rechargé", "trouver le chargeur", "aller en charge"]
+    "keyphrases": ["rentre à la maison", "à la maison", "recharger", "trouve le chargeur", "aller en charge", "rentre à ta base"]
   },
   {
     "name": "intent_system_sleep",
@@ -93,11 +93,11 @@
   },
   {
     "name": "intent_imperative_affirmative",
-    "keyphrases": ["oui", "bravo", "correct", "affirmatif", "vrai"]
+    "keyphrases": ["oui", "bravo", "correct", "affirmatif", "vrai", "c'est juste"]
   },
   {
     "name": "intent_imperative_negative",
-    "keyphrases": ["non", "pas", "mal", "faux"]
+    "keyphrases": ["non", "pas", "mal", "false"]
   },
   {
     "name": "intent_photo_take_extend",
@@ -109,7 +109,7 @@
   },
   {
     "name": "intent_imperative_abuse",
-    "keyphrases": ["mal", "stupide", "ça ne va pas", "vilain"]
+    "keyphrases": ["mal", "stupide", "ça ne va pas"]
   },
   {
     "name": "intent_imperative_apologize",
@@ -197,7 +197,7 @@
   },
   {
     "name": "intent_message_recordmessage_extend",
-    "keyphrases": ["enregistrer"]
+    "keyphrases": ["enregistrer", "magnéto"]
   },
   {
     "name": "intent_message_playmessage_extend",

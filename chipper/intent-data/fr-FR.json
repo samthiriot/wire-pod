@@ -5,23 +5,23 @@
   },
   {
     "name": "intent_weather_extend",
-    "keyphrases": ["quel temps fait-il", "quel temps fera", "prévisions météorologiques", "meteo"]
+    "keyphrases": ["quel temps fait-il", "quel temps fera", "prévisions météorologiques", "meteo", "est-ce qu'il pleut", "est-ce qu'il fait beau"]
   },
   {
     "name": "intent_names_ask",
-    "keyphrases": ["quel est mon nom", "comment m'appelle moi", "qui je suis"]
+    "keyphrases": ["quel est mon nom", "comment je m'appelle moi", "qui suis-je", "je suis qui", "tu me connais"]
   },
   {
     "name": "intent_imperative_eyecolor",
-    "keyphrases": ["couleur des yeux", "couleur des yeux", "changer la couleur", "yeux"]
+    "keyphrases": ["couleur des yeux", "changer la couleur des yeux", "yeux"]
   },
   {
     "name": "intent_character_age",
-    "keyphrases": ["quel âge avez-vous", "quel est votre âge", "quel âge avez-vous"]
+    "keyphrases": ["quel est ton âge", "quel âge as-tu"]
   },
   {
     "name": "intent_explore_start",
-    "keyphrases": ["allez explorer", "explore", "allez à l'exploration", "fait un tour"]
+    "keyphrases": ["allez explorer", "explore", "va explorer", "fait un tour"]
   },
   {
     "name": "intent_system_charger",
@@ -29,7 +29,7 @@
   },
   {
     "name": "intent_system_sleep",
-    "keyphrases": ["va te coucher", "allez a dormir", "allez au lit", "lit", "bonne nuit"]
+    "keyphrases": ["va te coucher", "vas dormir", "vas au lit", "lit", "bonne nuit", "dodo"]
   },
   {
     "name": "intent_greeting_goodmorning",
@@ -41,7 +41,7 @@
   },
   {
     "name": "intent_greeting_goodbye",
-    "keyphrases": ["adieu", "au revoir", "à voir"]
+    "keyphrases": ["adieu", "au revoir", "à bientôt"]
   },
   {
     "name": "intent_seasonal_happynewyear",
@@ -61,7 +61,7 @@
   },
   {
     "name": "intent_imperative_forward",
-    "keyphrases": ["avant"]
+    "keyphrases": ["avance"]
   },
   {
     "name": "intent_imperative_turnaround",
@@ -69,15 +69,15 @@
   },
   {
     "name": "intent_imperative_turnleft",
-    "keyphrases": ["turn à gauche", "allez à gauche"]
+    "keyphrases": ["tourne à gauche", "vas à gauche"]
   },
   {
     "name": "intent_imperative_turnright",
-    "keyphrases": ["tir à droite", "allez à droite"]
+    "keyphrases": ["tourne à droite", "vas à droite"]
   },
   {
     "name": "intent_play_rollcube",
-    "keyphrases": ["jouez avec le cube", "roulez le cube", "déplacez le cube"]
+    "keyphrases": ["joue avec le cube", "cherche ton cube", "déplacez le cube"]
   },
   {
     "name": "intent_play_popawheelie",
@@ -85,7 +85,7 @@
   },
   {
     "name": "intent_play_fistbump",
-    "keyphrases": ["donnez-moi cinq", "donnez-moi les cinq"]
+    "keyphrases": ["tapes m'en cinq", "check"]
   },
   {
     "name": "intent_play_blackjack",
@@ -93,11 +93,11 @@
   },
   {
     "name": "intent_imperative_affirmative",
-    "keyphrases": ["oui", "à droite", "correct", "oui", "vraie"]
+    "keyphrases": ["oui", "bravo", "correct", "affirmatif", "vrai"]
   },
   {
     "name": "intent_imperative_negative",
-    "keyphrases": ["non", "pas", "mal", "false"]
+    "keyphrases": ["non", "pas", "mal", "faux"]
   },
   {
     "name": "intent_photo_take_extend",
@@ -105,11 +105,11 @@
   },
   {
     "name": "intent_imperative_praise",
-    "keyphrases": ["bon", "gros", "mythique", "fort", "impressionnant"]
+    "keyphrases": ["bon", "gros", "mythique", "fort", "impressionnant", "balèze"]
   },
   {
     "name": "intent_imperative_abuse",
-    "keyphrases": ["mal", "stupide", "ça ne va pas"]
+    "keyphrases": ["mal", "stupide", "ça ne va pas", "vilain"]
   },
   {
     "name": "intent_imperative_apologize",
@@ -117,19 +117,19 @@
   },
   {
     "name": "intent_imperative_backup",
-    "keyphrases": ["retournez"]
+    "keyphrases": ["en arrière"]
   },
   {
     "name": "intent_imperative_volumedown",
-    "keyphrases": ["abaisse le volume"]
+    "keyphrases": ["abaisse le volume", "moins fort"]
   },
   {
     "name": "intent_imperative_volumeup",
-    "keyphrases": ["augmente le volume"]
+    "keyphrases": ["augmente le volume", "plus fort"]
   },
   {
     "name": "intent_imperative_lookatme",
-    "keyphrases": ["regardez-moi"]
+    "keyphrases": ["regardez-moi", "regarde moi", "regarde vers moi"]
   },
   {
     "name": "intent_imperative_volumelevel_extend",
@@ -137,7 +137,7 @@
   },
   {
     "name": "intent_imperative_shutup",
-    "keyphrases": ["tais-toi", "silence", "ferme"]
+    "keyphrases": ["tais-toi", "silence", "ferme", "du calme"]
   },
   {
     "name": "intent_greeting_hello",
@@ -145,7 +145,7 @@
   },
   {
     "name": "intent_imperative_come",
-    "keyphrases": ["viens ici", "viens à moi", "ici"]
+    "keyphrases": ["viens ici", "viens à moi", "ici", "viens vers moi"]
   },
   {
     "name": "intent_imperative_love",
@@ -169,7 +169,7 @@
   },
   {
     "name": "intent_clock_time",
-    "keyphrases": ["quelle est l'heure", "quelle heure est il"]
+    "keyphrases": ["quelle heure est-il", "as tu l'heure", "est-ce qu'il est tard"]
   },
   {
     "name": "intent_imperative_quiet",
@@ -189,11 +189,11 @@
   },
   {
     "name": "intent_imperative_findcube",
-    "keyphrases": ["trouver le cube", "trouvez votre cube"]
+    "keyphrases": ["trouves le cube", "trouves ton cube"]
   },
   {
     "name": "intent_play_anytrick",
-    "keyphrases": ["do something cool", "wonom me", "impression me", "inventer quelque chose"]
+    "keyphrases": ["fais quelque chose", "étonnes moi", "invente quelque chose"]
   },
   {
     "name": "intent_message_recordmessage_extend",
@@ -209,7 +209,7 @@
   },
   {
     "name": "intent_blackjack_stand",
-    "keyphrases": ["stand"]
+    "keyphrases": ["stop", "arrêtes toi"]
   },
   {
     "name": "intent_play_keepaway",

@@ -9,7 +9,7 @@
   },
   {
     "name": "intent_names_ask",
-    "keyphrases": ["quel est mon nom", "comment je m'appelle", "qui suis-je", "je suis qui", "tu me connais", "tu me reconnais", "qui je suis", "tu te souviens de moi"]
+    "keyphrases": ["quel est mon nom", "comment je m'appelle", "qui suis-je", "je suis qui", "tu me connais", "tu me reconnais", "qui je suis", "tu te souviens de moi", "me reconnais", "tu me remets"]
   },
   {
     "name": "intent_imperative_eyecolor",
@@ -17,7 +17,7 @@
   },
   {
     "name": "intent_character_age",
-    "keyphrases": ["quel est ton âge", "quel âge as-tu", "tu es jeune", "tu es vieux"]
+    "keyphrases": ["quel est ton âge", "quel âge as-tu", "tu es jeune", "tu es vieux", "tu as quel âge"]
   },
   {
     "name": "intent_explore_start",
@@ -49,7 +49,7 @@
   },
   {
     "name": "intent_seasonal_happyholidays",
-    "keyphrases": ["noël", "vacance", "joyeuses fêtes"]
+    "keyphrases": ["noël", "vacances", "joyeuses fêtes"]
   },
   {
     "name": "intent_amazon_signin",
@@ -85,7 +85,7 @@
   },
   {
     "name": "intent_play_fistbump",
-    "keyphrases": ["tapes m'en cinq", "check"]
+    "keyphrases": ["tapes m'en cinq", "check", "tchèque", "chèque", "wesh"]
   },
   {
     "name": "intent_play_blackjack",
@@ -169,7 +169,7 @@
   },
   {
     "name": "intent_clock_time",
-    "keyphrases": ["quelle heure est-il", "as tu l'heure", "est-ce qu'il est tard"]
+    "keyphrases": ["quelle heure est-il", "tu as l'heure", "il est tard", "quelle heure est-elle", "t'as l'heure"]
   },
   {
     "name": "intent_imperative_quiet",

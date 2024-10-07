@@ -5,11 +5,11 @@
   },
   {
     "name": "intent_weather_extend",
-    "keyphrases": ["quel temps fait-il", "quel temps fera", "prévisions météorologiques", "meteo", "est-ce qu'il pleut", "est-ce qu'il fait beau"]
+    "keyphrases": ["quel temps fait-il", "quel temps fera", "prévisions météo", "il va faire quel temps aujourd'hui", "est-ce qu'il pleut", "est-ce qu'il fait beau"]
   },
   {
     "name": "intent_names_ask",
-    "keyphrases": ["quel est mon nom", "comment je m'appelle moi", "qui suis-je", "je suis qui", "tu me connais"]
+    "keyphrases": ["quel est mon nom", "comment je m'appelle", "qui suis-je", "je suis qui", "tu me connais"]
   },
   {
     "name": "intent_imperative_eyecolor",
@@ -161,11 +161,11 @@
   },
   {
     "name": "intent_global_stop_extend",
-    "keyphrases": ["arrêtez le minuteur", "arrêtez le chronomètre"]
+    "keyphrases": ["arrête le minuteur", "arrête le chronomètre"]
   },
   {
     "name": "intent_clock_settimer_extend",
-    "keyphrases": ["démarrez le minuteur", "démarrez le chronomètre"]
+    "keyphrases": ["démarre le minuteur", "démarre le chronomètre"]
   },
   {
     "name": "intent_clock_time",
@@ -173,7 +173,7 @@
   },
   {
     "name": "intent_imperative_quiet",
-    "keyphrases": ["assez", "stop", "restez bien", "restez calme"]
+    "keyphrases": ["assez", "stop", "arrêtes tes bêtises", "du calme"]
   },
   {
     "name": "intent_imperative_dance",
@@ -181,11 +181,11 @@
   },
   {
     "name": "intent_play_pickupcube",
-    "keyphrases": ["collect"]
+    "keyphrases": ["ramasse"]
   },
   {
     "name": "intent_imperative_fetchcube",
-    "keyphrases": ["apportez le cube"]
+    "keyphrases": ["apporte le cube"]
   },
   {
     "name": "intent_imperative_findcube",
@@ -193,7 +193,7 @@
   },
   {
     "name": "intent_play_anytrick",
-    "keyphrases": ["fais quelque chose", "étonnes moi", "invente quelque chose"]
+    "keyphrases": ["fais quelque chose", "étonnes moi", "invente quelque chose", "fais n'importe quoi"]
   },
   {
     "name": "intent_message_recordmessage_extend",

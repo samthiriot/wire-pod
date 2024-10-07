@@ -5,7 +5,7 @@
   },
   {
     "name": "intent_weather_extend",
-    "keyphrases": ["quel temps fait-il", "quel temps fera-t-il", "météo", "pleuvoir", "pleut", "beau", "il va faire quel temps aujourd'hui", "est-ce qu'il pleut", "est-ce qu'il fait beau"]
+    "keyphrases": ["météo", "quel temps fait-il", "quel temps fera-t-il", "pleuvoir", "pleut", "beau", "il va faire quel temps aujourd'hui", "est-ce qu'il pleut", "est-ce qu'il fait beau", "est-ce qu'il pleut aujourd'hui", "est-ce qu'il va pleuvoir", "est-ce qu'il va faire beau"]
   },
   {
     "name": "intent_names_ask",
@@ -137,7 +137,7 @@
   },
   {
     "name": "intent_imperative_shutup",
-    "keyphrases": ["tais-toi", "silence", "ferme", "du calme"]
+    "keyphrases": ["tais-toi", "silence", "ferme", "du calme", "calme"]
   },
   {
     "name": "intent_greeting_hello",

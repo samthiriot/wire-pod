@@ -5,11 +5,11 @@
   },
   {
     "name": "intent_weather_extend",
-    "keyphrases": ["quel temps fait-il", "quel temps fera", "prévisions météo", "il va faire quel temps aujourd'hui", "est-ce qu'il pleut", "est-ce qu'il fait beau"]
+    "keyphrases": ["quel temps fait-il", "quel temps fera-t-il", "météo", "pleuvoir", "pleut", "beau", "il va faire quel temps aujourd'hui", "est-ce qu'il pleut", "est-ce qu'il fait beau"]
   },
   {
     "name": "intent_names_ask",
-    "keyphrases": ["quel est mon nom", "comment je m'appelle", "qui suis-je", "je suis qui", "tu me connais"]
+    "keyphrases": ["quel est mon nom", "comment je m'appelle", "qui suis-je", "je suis qui", "tu me connais", "tu me reconnais", "qui je suis", "tu te souviens de moi"]
   },
   {
     "name": "intent_imperative_eyecolor",
@@ -17,11 +17,11 @@
   },
   {
     "name": "intent_character_age",
-    "keyphrases": ["quel est ton âge", "quel âge as-tu"]
+    "keyphrases": ["quel est ton âge", "quel âge as-tu", "tu es jeune", "tu es vieux"]
   },
   {
     "name": "intent_explore_start",
-    "keyphrases": ["vas explorer", "explores", "pars faire une promenade", "fais un tour", "pars explorer"]
+    "keyphrases": ["vas explorer", "explore", "explorer", "pars faire une promenade", "fais un tour", "pars explorer"]
   },
   {
     "name": "intent_system_charger",
@@ -29,7 +29,7 @@
   },
   {
     "name": "intent_system_sleep",
-    "keyphrases": ["va te coucher", "vas dormir", "vas au lit", "lit", "bonne nuit", "dodo"]
+    "keyphrases": ["va te coucher", "couché", "vas dormir", "dormir", "vas au lit", "lit", "bonne nuit", "dodo", "tu es fatigué"]
   },
   {
     "name": "intent_greeting_goodmorning",
@@ -129,7 +129,7 @@
   },
   {
     "name": "intent_imperative_lookatme",
-    "keyphrases": ["regardez-moi", "regarde moi", "regarde vers moi"]
+    "keyphrases": ["regarde-moi", "regarde moi", "regarde vers moi", "par ici", "hé ho"]
   },
   {
     "name": "intent_imperative_volumelevel_extend",
